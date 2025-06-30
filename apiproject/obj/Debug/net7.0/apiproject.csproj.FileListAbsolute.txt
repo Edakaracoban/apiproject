@@ -74,3 +74,4 @@
 /Users/a1-02/Projects/apiproject/apiproject/obj/Debug/net7.0/apiproject.genruntimeconfig.cache
 /Users/a1-02/Projects/apiproject/apiproject/obj/Debug/net7.0/ref/apiproject.dll
 /Users/a1-02/Projects/apiproject/apiproject/obj/Debug/net7.0/apiproject.csproj.CopyComplete
+/Users/a1-02/Projects/apiproject/apiproject/bin/Debug/net7.0/Dapper.dll
